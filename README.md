@@ -89,4 +89,4 @@ MMTKGF # root folder
  |    |    |-- entity_reflection.csv # align icews entity to wikidata entity
  
 ```
-
+* Mapping table entity_reflection.csv can be restored from id and name fields of the corresponding entities in the textual folder.
