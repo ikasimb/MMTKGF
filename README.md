@@ -69,7 +69,7 @@ Entities corresponding to Wikidata property image (P18), locator map image (P242
 Entities description are obtained through the class “wikibase-entitytermsview-heading-description”. In cases where textual features contain non-standard Latin letters, we transliterate them into standard Latin letters.
 
 ## Dataset link
-The dataset is available at One Drive Disk https://1drv.ms/f/c/32f7834191744307/EgdDdJFBg_cggDIGDgAAAAABrHIZu_4Px63KjclnRTddVQ?e=qUCNUa
+The dataset is available at One Drive Disk https://1drv.ms/f/c/32f7834191744307/IgAHQ3SRQYP3IIAyBg4AAAAAAflJfe3e66S0DwI2p0SdVq0
 
 ### Folder Structure
 
